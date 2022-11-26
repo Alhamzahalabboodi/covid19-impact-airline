@@ -1,4 +1,4 @@
-# Project_01: Airline and Flight Data Exploration
+# Project_01: Airline and Flight Data Exploration:
 
 Exploring flights by airline in the defined dataset. Flights by location for the defined period of time. Surges or drops in flights in location dependent on external events. Reviewing the relationship between marketing and flight frequency airline revenue as a result of environmental/external events (such as COVID). 
 
